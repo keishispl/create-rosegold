@@ -22,6 +22,7 @@ public class CreativeTab {
                 entries.add(AllItems.STRONG_SAND_PAPER);
             })
             .build();
+
     public static void register() {
         Registry.register(Registries.ITEM_GROUP, new Identifier(CreateRoseGold.ID, "creativetab"), CREATE_RG);
     }

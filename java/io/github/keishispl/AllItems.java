@@ -15,6 +15,7 @@ public class AllItems {
     public static final ShovelItem SHOVEL = new ShovelItem(RoseGold.INSTANCE, 1.5F, -3.0F, new Item.Settings().rarity(Rarity.EPIC).fireproof());
     public static final HoeItem HOE = new HoeItem(RoseGold.INSTANCE, -4, 0, new Item.Settings().rarity(Rarity.EPIC).fireproof());
     public static final SandPaperItem STRONG_SAND_PAPER = new SandPaperItem(new Item.Settings().maxDamage(-1));
+
     public static void register() {
         Registry.register(Registries.ITEM, new Identifier(CreateRoseGold.ID, "rose_gold"), ROSE_GOLD);
         Registry.register(Registries.ITEM, new Identifier(CreateRoseGold.ID, "rose_gold_sword"), SWORD);
