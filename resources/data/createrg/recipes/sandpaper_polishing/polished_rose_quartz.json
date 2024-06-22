@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "createrg:rose_gold"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:polished_rose_quartz"
+    }
+  ]
+}

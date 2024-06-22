@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "createrg:rose_gold"
+    },
+    {
+      "tag": "createrg:create_sandpaper"
+    }
+  ],
+  "result": {
+    "item": "createrg:strong_sand_paper"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:polished_rose_quartz"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "createrg:rose_gold"
+    }
+  ]
+}
